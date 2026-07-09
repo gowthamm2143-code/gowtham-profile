@@ -1,0 +1,11 @@
+# ABOUT SECTION IMAGE PLACEHOLDER
+
+This file should be replaced with an image for the About section.
+
+Instructions:
+1. Add a professional photo or illustration
+2. Recommended size: 600x400px (3:2 aspect ratio)
+3. Format: JPG or PNG
+4. Name it exactly: about.jpg
+5. Place it in the images/ folder
+6. Delete this placeholder file (about.txt)

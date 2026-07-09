@@ -1,0 +1,7 @@
+# PROJECT 4 IMAGE PLACEHOLDER
+
+Replace this with a screenshot of your Portfolio Website project.
+
+Recommended size: 800x600px (4:3 aspect ratio)
+Format: JPG or PNG
+Name: project4.jpg
