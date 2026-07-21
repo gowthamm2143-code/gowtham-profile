@@ -1144,6 +1144,25 @@ section {
     color: var(--primary-color);
 }
 
+.certificate-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #00c896;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: 0.3s;
+    box-shadow: 0 0 15px rgba(0, 200, 150, 0.4);
+}
+
+.certificate-btn:hover {
+    background: #00a97d;
+    transform: translateY(-2px);
+    box-shadow: 0 0 20px rgba(0, 200, 150, 0.6);
+}
+
 /* ============================================
    Projects Section
    ============================================ */
